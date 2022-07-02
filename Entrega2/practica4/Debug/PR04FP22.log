@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\lenovo\source\repos\PR04FP22\PR04FP22\Main.cpp(12,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\lenovo\source\repos\PR04FP22\PR04FP22\MatrizChar.h(4,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  MatrizChar.cpp
+C:\Users\lenovo\source\repos\PR04FP22\PR04FP22\Main.cpp(44,12): warning C4101:  'a': variable local sin referencia
+C:\Users\lenovo\source\repos\PR04FP22\PR04FP22\MatrizChar.cpp(1,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Generando código...
+C:\Users\lenovo\source\repos\PR04FP22\PR04FP22\MatrizChar.h(4,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  PR04FP22.vcxproj -> C:\Users\lenovo\source\repos\PR04FP22\Debug\PR04FP22.exe

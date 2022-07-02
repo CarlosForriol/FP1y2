@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\lenovo\source\repos\practica2final\practica2final\Main.cpp(12,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  MatrizChar.cpp
+C:\Users\lenovo\source\repos\practica2final\practica2final\MatrizChar.h(4,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\lenovo\source\repos\practica2final\practica2final\MatrizChar.cpp(1,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Generando código...
+C:\Users\lenovo\source\repos\practica2final\practica2final\MatrizChar.h(4,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  practica2final.vcxproj -> C:\Users\lenovo\source\repos\practica2final\Debug\practica2final.exe
