@@ -1,0 +1,4 @@
+﻿  MatrizChar.cpp
+C:\Users\lenovo\source\repos\PR05FP2\PR05FP2\MatrizChar.cpp(1,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\lenovo\source\repos\PR05FP2\PR05FP2\MatrizChar.h(4,10): warning C4067:  símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  PR05FP2.vcxproj -> C:\Users\lenovo\source\repos\PR05FP2\Debug\PR05FP2.exe
